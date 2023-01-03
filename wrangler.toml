@@ -3,8 +3,8 @@ name = "blogroll"
 type = "webpack"
 account_id = "04f89f7d70fe25c731d24e2d3c28e475"
 workers_dev = true
-route = "qifengzhicheng.icl.moe/*"
-zone_id = "374cfa163417e4f4a64edb66a0ddc218"
+# route = "qifengzhicheng.icl.moe/*"
+# zone_id = "374cfa163417e4f4a64edb66a0ddc218"
 
 [site]
 bucket = "./web/dist"
